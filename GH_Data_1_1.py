@@ -59,7 +59,7 @@ for i in list(range(6)):        #각 열에 대해 산점도 그리기
 
 print(app_store_df.corr())
 
-#카테고리별 아노바 분석
+#카테고리별 아노바 분석(2)
 
 #아노바 분석을 위해 싸이파이 패키지 가져오기
 import scipy.stats as stats
